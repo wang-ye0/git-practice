@@ -22,4 +22,5 @@
 - [x] 学会用分支（含合并）
 - [x] 把仓库推到 GitHub
 - [x] 学会 clone 和 pull
-- [ ] 学会用 .gitignore（A 电脑写的）
+- [x] 学会用 .gitignore
+- [x] 学会处理冲突
