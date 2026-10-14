@@ -7,6 +7,7 @@
 - 工作区、暂存区、仓库 三者的关系
 - add / commit / log / diff
 - 分支与合并
+- 远程仓库：remote / clone / push / pull
 
 ## 备注
 
@@ -17,5 +18,7 @@
 - [x] 配置身份
 - [x] 配置 SSH 密钥
 - [x] 完成第一次提交
-- [ ] 学会看 diff
-- [ ] 学会用分支
+- [x] 学会看 diff
+- [x] 学会用分支（含合并）
+- [x] 把仓库推到 GitHub
+- [x] 学会 clone 和 pull
